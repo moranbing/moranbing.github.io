@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Moran’s SpacE</title>
+    <link>https://moranbing.github.io/post/</link>
+    <description>Recent content in Posts on Moran’s SpacE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://moranbing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《人類大歷史》整理</title>
+      <link>https://moranbing.github.io/post/sapiens/</link>
+      <pubDate>Fri, 01 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://moranbing.github.io/post/sapiens/</guid>
+      <description>重读简摘|施工中 • 宽容不是智人的特色，合作非人类本能 • 习惯于充满恐惧与焦虑 • 火，缩短肠道，提升大脑 • 分娩时的死亡成了女性一大风险 • 人类跃迁过快导致人地矛盾 • 讨论虚构事物是智人语言最独特功能 • 上层建筑是虚构的集体想象 • 虚构的集体想象调整个人行为模式与社会行为 马克思解构社会行为物质为基本限制，
+当今解构个体行为也应该以物质为基本限制：神经生物学
+#根本：能做出基本限制的上议题
+• 历史上真正颠扑不破的道理，就是原本的奢侈品往往最后会成为必需品 • 生存繁衍是生命的趋势 • 整体演化上的进步，个人痛苦随之增长 #盛世之下人人不堪重负
+#自农业革命始，人类开始自役
+#要驯化动物，必须抑制其自然天性与斗性，打其破社会连结，并且限制它们行动自由（佃农/工人/社畜)
+• {驳斥人人平等}：演化的基础是差异，而非平等 • 能力相同，所处阶级不同，游戏规则与机会不同，结果不同 #如何构筑集体想象？
+对环境：与真实世界深深结合 对个体：塑造对应欲望追求价值观 对集体：让大家都形成契约 —— —— ——
+• 无论处于哪一个人类文化中，人都会认知失调 • 只有了解某个文化里互相冲突地方，而非都同意的教条，才能真正了解一个文化 #不能同时接受两种相反价值观的人是顽冥不化的
+• 真正的文明冲突其实是聋子式的对话（dialogue of the deaf） • 现代全球化文明：地缘政治体系，经济制度，法律制度，科学制度 • 哲学、艺术、司法、公益，现在人类之所以有许多文化成就，背后常常靠的就是剥削制度 • 标准化可谓皇帝一大福音 </description>
+    </item>
+    
+    <item>
+      <title>Hello World!</title>
+      <link>https://moranbing.github.io/post/my-post/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://moranbing.github.io/post/my-post/</guid>
+      <description>出于对7.5当天肝不完的担心所以提前完工了 手动致谢谷歌浏览器的web开发调试功能XD！ 源码放在Gayhub上面 点击此处
+对拓展功能的完善后面再说吧嘻嘻</description>
+    </item>
+    
+    <item>
+      <title>sample</title>
+      <link>https://moranbing.github.io/post/test/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://moranbing.github.io/post/test/</guid>
+      <description>Hugo is the world&amp;rsquo;s fastest static website engine. It&amp;rsquo;s written in Go (aka Golang) and developed by bep, spf13 and friends.
+Below you will find some of the most common and helpful pages from our documentation.
+https://gohugo.io/documentation/</description>
+    </item>
+    
+    <item>
+      <title>test post</title>
+      <link>https://moranbing.github.io/post/test/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://moranbing.github.io/post/test/</guid>
+      <description>echo &amp;#34;hello world !!&amp;#34; </description>
+    </item>
+    
+  </channel>
+</rss>
