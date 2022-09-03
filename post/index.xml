@@ -6,7 +6,42 @@
     <description>Recent content in Posts on Moran’s SpacE</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://moranbing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://moranbing.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>《给青年的十二封信》1931</title>
+      <link>https://moranbing.github.io/post/12%E5%B0%81%E4%BF%A1/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://moranbing.github.io/post/12%E5%B0%81%E4%BF%A1/</guid>
+      <description>第七——谈升学与选课
+选校应以有无诚恳、和爱的空气为准
+至少在大学头一二年中，你须尽力多选功课。
+许多人因为站在狭路上，只能见到诸方面的某一面，便说他人所见到的都不如他的真确。
+第六——谈多元宇宙
+恋爱是人格的交感共鸣，所以恋爱真纯的程度以人格高下为准。
+境过则情迁，色衰则爱驰，这虽是冒名恋爱，实则只是纵欲。
+第五——谈十字街头
+人类须有法律道德维持，固足证其顽劣；
+老庄上德不德绝圣弃智的主张，理想虽高，而究不适于顽劣的人类社会。
+第一——谈读书
+世间有许多人比你忙得多。许多人的学问都在忙中做成的。
+中国学生们大半是少年老成，在中学时代就欢喜像煞有介事的一样谈一点学理
+第十二——谈人生与我
+如果我的理由是理由，就不要仰仗先圣先贤的声威
+第十——谈摆脱
+“长枪短戟，用各不同，但精其一，已足制胜，才有偏向，姑发展其所长，不必广心博骛也。”</description>
+    </item>
+    
+    <item>
+      <title>微信：我们的服务器比用户的内存珍贵</title>
+      <link>https://moranbing.github.io/post/%E5%90%90%E6%A7%BD/</link>
+      <pubDate>Sat, 03 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://moranbing.github.io/post/%E5%90%90%E6%A7%BD/</guid>
+      <description>不小心把wechat files 同步到onedrive 上面了，同步不完就取消不了的那种&amp;hellip;
+多亏微信的本地硬盘消息储存机制，只要程序在运行 wechat files就会永远扩张，就会永远同步不完，就会永远无法取消同步&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>少年你渴望力量吗{doge}</title>
       <link>https://moranbing.github.io/post/21en-%E5%8A%9B%E9%87%8F/</link>
